@@ -12,7 +12,7 @@ I am currently participating in Bangkit Academy by following the machine learnin
 **Microeceonometrics Course @ Universitas Padjadjaran**
 - Partake in data processing and paper writing for the Microeconometrics Project titled ["The Impact of Sweet Food Consumption on the Incidence of Toothache in
 Children Aged 2-14: Data Analysis from the IFLS Survey 2014"](https://drive.google.com/file/d/1QgTndVhiFUYT0clNfBnMRk2bZJR_pRvw/view?usp=sharing)
-- Conducting research entitled "COMPARATIVE ANALYSIS OF MACHINE LEARNING MODELS IN FORECASTING INFLATION OF VOLATILE FOOD COMMODITIES" - Kampus Merdeka Bank Indonesia
+- Conducting research entitled "Comparative Analysis of Machine Learning Models in Forecasting Inflation of Volatile Food Commodities" - Kampus Merdeka Bank Indonesia
 <!--
 **artsyhrstn/artsyhrstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
